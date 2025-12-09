@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm **Natnicha Charukitphaisarn** 👋
 
-<!--
-**Natnichachar/Natnichachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **ICE Engineering student at Chulalongkorn University** passionate about  
+**machine learning, deep learning, data visualization, and building useful apps.**
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Python · JavaScript · Java  
+**ML/DL:** PyTorch · TensorFlow · scikit-learn · SentenceTransformers  
+**Tools:** Streamlit · FastAPI · Pandas · NumPy · Plotly   
+**Other:** BeautifulSoup · Git · Conda · VS Code · Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Paperly – Scopus Research Explorer:**  
+  Deep-learning–powered tool for searching papers, visualizing Scopus data, and mapping ideas in embedding space.
+
+- **Airbnb Listing Prices Predictor:**  
+  A complete machine-learning pipeline implementing a regression model for predicting Airbnb listing prices.
+
+- **Rainfall Analysis Dashboard:**  
+  Streamlit app for temporal & spatial analysis with interactive charts and maps.
+
+## 📫 Contact
+**Email:** pcharukit@gmail.com
+
+
+---
