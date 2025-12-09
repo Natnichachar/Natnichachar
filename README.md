@@ -1,7 +1,6 @@
 # Hi, I'm **Natnicha Charukitphaisarn** 👋
 
-I'm an **ICE Engineering student at Chulalongkorn University** passionate about  
-**machine learning, deep learning, data visualization, and building useful apps.**
+**ICE Engineering student at Chulalongkorn University's International School of Engineering** 
 
 ## 🔧 Tech Stack
 **Languages:** Python · JavaScript · Java  
