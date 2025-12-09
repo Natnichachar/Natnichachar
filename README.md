@@ -21,10 +21,6 @@
 ## 📫 Contact
 **Email:** pcharukit@gmail.com
 
+---
 ![Natnicha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natnichachar&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natnichachar&layout=compact&theme=tokyonight)
-
-
-
-
----
